@@ -12,7 +12,7 @@
 body {
     margin: 0;
     font-family: "Segoe UI", sans-serif;
-    background: #fff;
+    background: #d4cece;
     color: #fff;
     transition: all 0.3s ease;
 }
@@ -280,4 +280,5 @@ footer {
     text-align: center;
     padding: 1.5rem;
     opacity: 0.7;
+    color: black;
 }
